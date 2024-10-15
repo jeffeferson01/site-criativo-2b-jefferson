@@ -1,5 +1,9 @@
-header{
+
+
+.cabecalho {
     background-color: #ffffff;
     color:white
     display;flex
+    justify-content: space-around;
+     <align-intems>: center;
 }
